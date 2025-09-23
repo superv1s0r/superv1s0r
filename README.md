@@ -8,10 +8,11 @@ I'm a backend & ML developer who loves building bots, ML models, and web apps.
 - Currently working with SOLANA. Stay tuned
 
 ## 💻 Skills
-Python | XGBoost | Librosa | Java | Next.js | React | FastAPI | Redis | Supabase | Telegram API
+Python | XGBoost | Librosa | Java | Next.js | React | FastAPI | Redis | Supabase | Telegram Mini Apps/API
 
 ## 📈 GitHub Stats
-![superv1s0r's GitHub stats](https://github-readme-stats.vercel.app/api?username=superv1s0r&show_icons=true&hide_border=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superv1s0r&layout=compact&theme=radical)
+
 
 ## 📫 Contact
 - LinkedIn: [Oleksandr Baranets](https://www.linkedin.com/in/oleksandr-baranets-2ab843292/)
