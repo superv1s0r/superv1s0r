@@ -8,7 +8,7 @@ I'm a backend & ML developer who loves building bots, ML models, and web apps.
 - Currently working with SOLANA. Stay tuned
 
 ## 💻 Skills
-Python | XGBoost | Librosa | Java | Next.js | React | FastAPI | Redis | Supabase | Telegram Mini Apps/API
+Python | Java | Next.js | TypeScript | FastAPI | Redis | Supabase | Telegram Mini Apps/API 
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superv1s0r&layout=compact&theme=radical)
